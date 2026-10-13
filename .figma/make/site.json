@@ -1,0 +1,10 @@
+{
+  "description": "An intuitive LMS offering live classes, dynamic schedules, weighted grading, and gamified AI learning paths to enhance student engagement and teacher management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
